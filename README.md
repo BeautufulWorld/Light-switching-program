@@ -1,4 +1,4 @@
-# Light-switching-program in my room
+# Light-switching-program in he room
 def move(self):
     self.y += self.speed_y
     self.x += self.speed_x
