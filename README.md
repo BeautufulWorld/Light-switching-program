@@ -4,6 +4,7 @@ def move(self):
     self.x += self.speed_x
     self.angle += self.rotation_speed
     if self.y > HEIGHT:
+    
         self.y = random.randint(-100, -40)
         self.x = random.randint(0, WIDTH)
 def draw(self, screen):
