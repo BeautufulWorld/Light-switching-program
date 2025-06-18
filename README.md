@@ -8,7 +8,6 @@ def move(self):
         self.x = random.randint(0, WIDTH)
         hehe popi 
 def draw(self, screen):
-
     rotated_image = pygame.transform.rotate(self.image, self.angle)
     screen.blit(rotated_image, (self.x, self.y))
 //this one is interesting
