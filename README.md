@@ -1,5 +1,8 @@
 # Light-switching-program in every room
 def move(self):
+s
+d
+
     self.y += self.speed_y
     self.x += self.speed_x
     self.angle += self.rotation_speed
