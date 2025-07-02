@@ -6,6 +6,8 @@ d
 asd
     self.y += self.speed_y
     self.x += self.speed_x
+    letsgo
+    a
     self.angle += self.rotation_speed
     happys
     
