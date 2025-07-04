@@ -2,7 +2,6 @@
 def move(self):
 s
 d
-
 asd
     self.y += self.speed_y
     self.x += self.speed_x
