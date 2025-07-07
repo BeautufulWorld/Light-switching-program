@@ -4,6 +4,7 @@ s
 d
 asd
     self.y += self.speed_y
+    we2
     self.x += self.speed_x
     letsgo
     a
