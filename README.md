@@ -7,8 +7,7 @@ asd
     letsgo
     a
     self.angle += self.rotation_speed
-    happys
-    
+    happys 
     if self.y > HEIGHT:
         self.y = random.randint(-100, -40)
         self.x = random.randint(0, WIDTH)
