@@ -6,7 +6,7 @@ asd
     self.x += self.speed_x
     letsgo
     a
-    self.angle += self.rotation_speed
+    self.angle += self.rotation_speed  
     happys 
     if self.y > HEIGHT:
         self.y = random.randint(-100, -40)
